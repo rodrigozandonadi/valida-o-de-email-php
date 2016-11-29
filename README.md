@@ -1,0 +1,1 @@
+# valida-o-de-email-php
